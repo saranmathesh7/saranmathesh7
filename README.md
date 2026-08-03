@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saranmathesh7/saranmathesh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Saran Mathesh
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `saran@github:~$ ./contributions.sh`
+
+<img src="contrib-heatmap.svg" width="860">
+
+<br><br>
+
+### `saran@github:~$ whoami`
+
+<table>
+<tr>
+
+<td valign="top">
+
+<img src="avi-ascii.svg" width="350">
+
+</td>
+
+<td valign="top">
+
+<img src="info-card.svg" width="500">
+
+</td>
+
+</tr>
+</table>
+
+</div>
