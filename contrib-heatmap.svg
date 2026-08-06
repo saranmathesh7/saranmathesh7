@@ -1839,7 +1839,7 @@ y="44"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="450"
@@ -2543,7 +2543,7 @@ y="100"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="618"
@@ -2551,7 +2551,7 @@ y="114"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="632"
@@ -3084,6 +3084,14 @@ fill="#161b22"/>
 <rect
 x="758"
 y="72"
+width="10"
+height="10"
+rx="2"
+fill="#161b22"/>
+
+<rect
+x="758"
+y="86"
 width="10"
 height="10"
 rx="2"
@@ -3153,6 +3161,6 @@ y="175"
 font-size="12"
 fill="#8b949e"
 font-family="Arial">
-368 days loaded
+369 days loaded
 </text>
 </svg>
