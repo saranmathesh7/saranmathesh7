@@ -991,7 +991,7 @@ y="30"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="240"
@@ -1567,18 +1567,18 @@ y="58"
 width="10"
 height="10"
 rx="2"
+fill="#161b22"/>
+
+<rect
+x="380"
+y="72"
+width="10"
+height="10"
+rx="2"
 fill="#39d353"/>
 
 <rect
 x="380"
-y="72"
-width="10"
-height="10"
-rx="2"
-fill="#161b22"/>
-
-<rect
-x="380"
 y="86"
 width="10"
 height="10"
@@ -1735,7 +1735,7 @@ y="58"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="422"
@@ -1756,20 +1756,20 @@ fill="#0e4429"/>
 <rect
 x="422"
 y="100"
+width="10"
+height="10"
+rx="2"
+fill="#0e4429"/>
+
+<rect
+x="422"
+y="114"
 width="10"
 height="10"
 rx="2"
 fill="#006d32"/>
 
 <rect
-x="422"
-y="114"
-width="10"
-height="10"
-rx="2"
-fill="#0e4429"/>
-
-<rect
 x="436"
 y="30"
 width="10"
@@ -1831,7 +1831,7 @@ y="30"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="450"
@@ -2151,7 +2151,7 @@ y="100"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="520"
@@ -2247,7 +2247,7 @@ y="72"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="548"
@@ -2431,7 +2431,7 @@ y="100"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="590"
@@ -2439,7 +2439,7 @@ y="114"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="604"
@@ -2567,7 +2567,7 @@ y="44"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="632"
@@ -2663,7 +2663,7 @@ y="114"
 width="10"
 height="10"
 rx="2"
-fill="#161b22"/>
+fill="#0e4429"/>
 
 <rect
 x="660"
@@ -2975,7 +2975,7 @@ y="72"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#161b22"/>
 
 <rect
 x="730"
@@ -3055,7 +3055,7 @@ y="114"
 width="10"
 height="10"
 rx="2"
-fill="#006d32"/>
+fill="#0e4429"/>
 
 <rect
 x="758"
@@ -3063,11 +3063,19 @@ y="30"
 width="10"
 height="10"
 rx="2"
-fill="#0e4429"/>
+fill="#006d32"/>
 
 <rect
 x="758"
 y="44"
+width="10"
+height="10"
+rx="2"
+fill="#0e4429"/>
+
+<rect
+x="758"
+y="58"
 width="10"
 height="10"
 rx="2"
@@ -3137,6 +3145,6 @@ y="175"
 font-size="12"
 fill="#8b949e"
 font-family="Arial">
-366 days loaded
+367 days loaded
 </text>
 </svg>
